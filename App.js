@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   texto:{
-    color: '#000',
+    color: 'white',
     fontSize: 30
   },
   textoBloco:{
